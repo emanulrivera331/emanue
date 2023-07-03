@@ -1,0 +1,11 @@
+C:\Users\river\source\repos\login\login\bin\Debug\login.exe.config
+C:\Users\river\source\repos\login\login\bin\Debug\login.exe
+C:\Users\river\source\repos\login\login\bin\Debug\login.pdb
+C:\Users\river\source\repos\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\river\source\repos\login\login\obj\Debug\login.login.resources
+C:\Users\river\source\repos\login\login\obj\Debug\login.newpass.resources
+C:\Users\river\source\repos\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\river\source\repos\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\river\source\repos\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\river\source\repos\login\login\obj\Debug\login.exe
+C:\Users\river\source\repos\login\login\obj\Debug\login.pdb
